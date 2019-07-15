@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="mariosolve:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/mariosolve_jar</output-path>
+    <root id="archive" name="mariosolve.jar">
+      <element id="module-output" name="mariosolve" />
+    </root>
+  </artifact>
+</component>
